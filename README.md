@@ -1,5 +1,7 @@
 # Sora2 视频生成工具
 
+项目使用的API地址：https://api.sora2.email/register?aff=J0Aw
+
 一个支持全系列Sora 2模型的视频生成工具，具备以下核心功能：
 
 ## ✨ 核心功能
@@ -62,11 +64,7 @@ bash build_mac.sh
 - 自动生成角色图片（支持批量生成）
 - 角色描述和特征管理
 
-### 4. 高清放大
-- 视频分辨率提升功能
-- 批量处理多个视频文件
-- 自定义处理模式和放大系数
-- 集成ComfyUI进行AI视频处理
+### 4. *****
 
 ### 5. 音色库
 - 音色文件管理
@@ -96,8 +94,6 @@ bash build_mac.sh
 ├── threads/             多线程操作
 ├── ui/                  各个界面实现
 ├── utils/               工具类函数
-├── hooks/               PyInstaller钩子文件
-├── AliyunOSS/           阿里云OSS相关文档
 ├── APIDocs/             API文档
 ├── main.py              主程序入口
 ├── main_window.py       主窗口
@@ -123,9 +119,4 @@ bash build_mac.sh
 
 欢迎提交 Issue 和 Pull Request！
 
-## 📧 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 微信: Xseven888
-- Gitee: https://gitee.com/seven798/yh-comic-drama
 
