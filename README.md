@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sora2 视频生成工具
 
 一个支持全系列Sora 2模型的视频生成工具，具备以下核心功能：
@@ -129,7 +128,4 @@ bash build_mac.sh
 如有问题或建议，请通过以下方式联系：
 - 微信: Xseven888
 - Gitee: https://gitee.com/seven798/yh-comic-drama
-=======
-# sora2-yinhuimanju
-sora-2一键漫剧助手
->>>>>>> e311bb66c96ecb4cb5203ea6c982bc47d18cf5a8
+
