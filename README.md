@@ -72,7 +72,6 @@ bash build_mac.sh
 
 ### 6. 设置
 - API密钥配置
-- ComfyUI服务器地址设置
 - 视频保存路径配置
 - 数据管理（日志查看、数据库管理）
 
@@ -94,7 +93,6 @@ bash build_mac.sh
 ├── threads/             多线程操作
 ├── ui/                  各个界面实现
 ├── utils/               工具类函数
-├── APIDocs/             API文档
 ├── main.py              主程序入口
 ├── main_window.py       主窗口
 ├── database_manager.py  数据库管理
@@ -109,7 +107,6 @@ bash build_mac.sh
 首次运行前，需要在设置中配置：
 - **API Key**: Sora 2 API密钥（必需）
 - **视频保存路径**: 生成视频的保存位置（可选，默认使用系统临时目录）
-- **ComfyUI服务器**: 高清放大功能需要（可选）
 
 ## 📝 许可证
 
